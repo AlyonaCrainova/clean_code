@@ -1,0 +1,35 @@
+f_name - firstName (first_name)
+//first name
+
+currE - currentElement (current_element)
+// current element
+
+s - message (message)
+// message from message list
+
+s - server (server)
+// RMIServer instance
+
+lst - registrationsList (registrations_list)
+// persist registration data for transfer by internet
+
+mrows - sourceData (source_data)
+// data for computation from file
+
+v - center (center)
+// center in k-means algorithm
+
+b_pct - bQuestionGroupPercent (b_question_group_percent)
+// B question group percent
+
+q_subgroup - subgroup (subgroup)
+//Question class attribute
+
+line - readLine (read_line)
+// line read from txt file
+
+c2 - forthChildExaminationBox (forth_child_examination)
+//checkbox for "Оформление результатов четвертого патронажа"
+
+gd1 - twoMonthsOldExaminationFrame (two_months_old_examination_frame)
+// group box frame for group of questions: "D01 Охват детей профилактическими осмотрами в 2 месяц"
