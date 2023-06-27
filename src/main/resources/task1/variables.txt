@@ -1,0 +1,35 @@
+f_name - firstName (first_name)
+// имя
+
+currE - currentElement (current_element)
+// текущий элемент в цикле
+
+s - message (message)
+// сообщение в списке (обращение в цикле)
+
+s - server (server)
+// RMIServer instance
+
+lst - registrationsList (registrations_list)
+// хранит данные о регистрациях для передачи по сети
+
+mrows - sourceData (source_data)
+// данные из файла для расчёта
+
+v - center (center)
+// центр в алгоритме k-средних
+
+b_pct - bQuestionGroupPercent (b_question_group_percent)
+// процент, рассчитанный по группе вопросов "B"
+
+q_subgroup - subgroup (subgroup)
+// подгруппа, атрибут класса Question
+
+line - readLine (read_line)
+// строка, считанная из файла
+
+c2 - forthChildExaminationBox (forth_child_examination)
+//чекбокс "Оформление результатов четвертого патронажа"
+
+gd1 - twoMonthsOldExaminationFrame (two_months_old_examination_frame)
+// рамка для графических элементов группы вопросов "Охват детей профилактическими осмотрами в 2 месяц"
