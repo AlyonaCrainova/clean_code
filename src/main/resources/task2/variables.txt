@@ -1,0 +1,28 @@
+//6.1.
+1. borderDate - firedNotBefore
+//Таблица (ABAP) с сотрудниками, которые разбиты по условиям и месяцам, в которые они удовлетворяют этим условиям.
+2. list - employeesForMonths
+3. result - payrollResult
+4. period - reportingPeriod
+5. payroll - lastPayrollRun
+
+//6.2.
+1. класс TurnoverTemplate - абстрактный класс шаблонного метода.
+2. класс FSSProxy - прокси для определения видимости ссылки на web-странице для приложения FSS
+3. класс ExaminationModel - класс модели в паттерне MVC
+4. класс ExaminationDao
+
+//6.3.
+1. hireDate в классе Employee
+2. mailBody в методе send класса Notification
+3. draft в классе FSSForm
+
+//6.4.
+//Коды оплат для начисления заработной платы. Как в справке 2НДФЛ. Используется для расчета показателя.
+1. accrue - accrualWageCodes
+//Индекс в цикле.
+2. index - currentRowIndex
+3. string - encodedFile
+4. sr - streamReader
+5. msg - receivedMessage
+
